@@ -1,0 +1,14 @@
+CSS TRANSITIONS
+
+Transitions allow us to animate the transition value of one property 
+value to another property value. 
+
+
+Beyond hovering, that's a very common example, but in JS, 
+you can always apply classes, remove classes, change styles on the fly,
+and you can still add transitions to that.
+
+
+So transitions are not used to only switch from one CSS property to 
+another CSS property - there are many other situations. 
+
